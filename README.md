@@ -1,6 +1,6 @@
 # Backend Repo here
 
-Click on this link to go backend of Stock Trading Website [Backend](https://github.com/archit-2003/Devbits-23-Backend).
+Click on this link to go backend of Stock Trading Website [Backend](https://github.com/simar1030/Stock-Trading-Website-Backend).
 
 # Getting Started with Create React App
 
